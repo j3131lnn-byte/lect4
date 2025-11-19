@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 #SPDX-FIleCopyrightText: 2025 Daiki ojima j3131lnn@sit.ac.jp
-#SPDX-License-Identifier:GPL-3.0
+#SPDX-License-Identifier:BSD-3-Clause
 import sys
 
 ans = 0.0
