@@ -1,0 +1,12 @@
+#!/usr/bin/python3
+#SPDX-FIleCopyrightText: 2025 Daiki ojima j3131lnn@sit.ac.jp
+#SPDX-License-Identifier:BSD-3-Clause
+import sys
+
+ans = 0
+for line in sys.stdin:
+	try:
+	    ans += float(line)
+	except:
+            ans += float(line)
+print(ans)
